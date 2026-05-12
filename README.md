@@ -2,7 +2,7 @@
 
 CancerPDF is a comprehensive database of cancer-associated endogenous peptides identified in human biofluids. The resource was developed to support peptide-based biomarker discovery and cancer peptidomics research.
 
-Web Server: (https://webs.iiitd.edu.in/raghava/cancerpdf/)
+Web Server: https://webs.iiitd.edu.in/raghava/cancerpdf/
 
 ZENODO : https://doi.org/10.5281/zenodo.20073496
 
